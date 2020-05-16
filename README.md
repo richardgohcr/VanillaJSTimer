@@ -1,2 +1,2 @@
 # VanillaJSTimer
-A simple timer application made using vanilla JS
+Vanilla JS practice project for a simple timer application
